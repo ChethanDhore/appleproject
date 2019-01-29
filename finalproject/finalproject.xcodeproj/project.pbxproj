@@ -12,6 +12,7 @@
 		07A345A022002B070092B3A9 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 07A3459E22002B070092B3A9 /* Main.storyboard */; };
 		07A345A222002B070092B3A9 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 07A345A122002B070092B3A9 /* Assets.xcassets */; };
 		07A345A522002B070092B3A9 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 07A345A322002B070092B3A9 /* LaunchScreen.storyboard */; };
+		07A345AD22002C540092B3A9 /* payment.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 07A345AC22002C540092B3A9 /* payment.storyboard */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		07A345A122002B070092B3A9 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		07A345A422002B070092B3A9 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		07A345A622002B070092B3A9 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		07A345AC22002C540092B3A9 /* payment.storyboard */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; path = payment.storyboard; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -57,6 +59,7 @@
 				07A3459A22002B070092B3A9 /* AppDelegate.swift */,
 				07A3459C22002B070092B3A9 /* ViewController.swift */,
 				07A3459E22002B070092B3A9 /* Main.storyboard */,
+				07A345AC22002C540092B3A9 /* payment.storyboard */,
 				07A345A122002B070092B3A9 /* Assets.xcassets */,
 				07A345A322002B070092B3A9 /* LaunchScreen.storyboard */,
 				07A345A622002B070092B3A9 /* Info.plist */,
@@ -124,6 +127,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				07A345A522002B070092B3A9 /* LaunchScreen.storyboard in Resources */,
+				07A345AD22002C540092B3A9 /* payment.storyboard in Resources */,
 				07A345A222002B070092B3A9 /* Assets.xcassets in Resources */,
 				07A345A022002B070092B3A9 /* Main.storyboard in Resources */,
 			);
